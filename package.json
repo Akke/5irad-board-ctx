@@ -1,0 +1,26 @@
+{
+  "name": "5irad-board-ctx",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": ["index.js", "README.md"],
+  "sideEffects": false,
+  "peerDependencies": {
+    "react": ">=18"
+  },
+  "devDependencies": {
+    "react": ">=18"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akke/5irad-board-ctx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Akke/5irad-board-ctx/issues"
+  },
+  "homepage": "https://github.com/Akke/5irad-board-ctx#readme"
+}
