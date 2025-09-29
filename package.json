@@ -1,10 +1,16 @@
 {
   "name": "@akkelw/5irad-board-ctx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "./src/useBoard.jsx",
-  "exports": { ".": "./src/useBoard.jsx" },
+  "exports": {
+    ".": "./src/useBoard.jsx"
+  },
   "sideEffects": false,
-  "peerDependencies": { "react": ">=18" },
-  "devDependencies": { "react": ">=18" }
+  "peerDependencies": {
+    "react": ">=18"
+  },
+  "devDependencies": {
+    "react": ">=18"
+  }
 }
